@@ -1,0 +1,5 @@
+{
+  "*": {
+    "dispatch": "./sudoku_adder 18"
+  }
+}
